@@ -1,6 +1,6 @@
 # Проект: Приложение для создание полигонов
 
-### _Ссылка:_ https://kochetkov1.github.io/
+### _Ссылка:_ https://kochetkov1.github.io/polygon-creator/
 ___
 ## Установка
 - npm i
